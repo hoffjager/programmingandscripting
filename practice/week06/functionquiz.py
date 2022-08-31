@@ -1,0 +1,8 @@
+# Function yo takes one parameter.
+def yo(a):
+    return a * 2
+# Here we are calling the function yo.
+# And are passing in an argument, 3
+# Author: Jonathon Grealish
+
+print(yo(3))
